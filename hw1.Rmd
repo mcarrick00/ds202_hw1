@@ -1,0 +1,23 @@
+---
+title: "Homework #1"
+author: "Molly Carrick"
+date: "8/19/2020"
+output: html_document
+---
+
+
+Hello, my name is **Molly Carrick**.  I am a sophomore studying *Mathematics*.  I am from Belvidere, Illinois.  I like to play the French Horn, go outside, and read fiction novels.  I am in the Cyclone Marching Band.
+
+A Business Analyst uses data analytics to improve their company.  They use datasets to determine data trends. Then, they apply the information they gather to satisfy clientele or improve products.  As well as programming and data anlaytic skills, they need to be able to communicate well and have an understanding of what kind of improvements are feasible for the company to make.  You can read more about Business Analysts and what they do [here](https://www.cio.com/article/2436638/project-management-what-do-business-analysts-actually-do-for-software-implementation-projects.html).  
+<center>
+![Alt text](DS.png)
+<center>
+
+## R Version
+```{r}
+version
+```
+
+## Git
+git version: 2.20.1 (Apple Git-117)  
+GitHub username: mcarrick00
