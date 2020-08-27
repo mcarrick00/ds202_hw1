@@ -1,0 +1,22 @@
+---
+title: "partner.Rmd"
+author: "Max Wisnieski"
+date: "8/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Step 2: Part 3
+
+- Max Wisnieski: maxwisn
+  
+- In the most recent commit hw1.Rmd was added into the repo
+  
+- Commit ID: 290cdab3688fe56819facb13fe64adeb5b4ec254
+  
+- Trying to knit hw1.Rmd resulted in an error because DS.png     was not found in the resource path
+  
+- Finding the repo invite was the only difficult part of using     GitHub 
